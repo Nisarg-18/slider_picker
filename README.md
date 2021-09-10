@@ -1,4 +1,4 @@
-# date_slider
+# slider_picker
 
 A new Flutter project.
 
